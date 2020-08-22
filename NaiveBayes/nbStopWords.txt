@@ -1,0 +1,17 @@
+Here we are removing the stop words from the vocabulary and seeing its effect on the algorithm accuracy. Below are the observations taken:
+
+N = 1; Accuracy = 0.8056
+N = 5; Accuracy = 0.8056
+N = 10; Accuracy = 0.8056
+N = 20; Accuracy = 0.8056
+N = 25; Accuracy = 0.8333
+N = 30; Accuracy = 0.8333
+N = 40; Accuracy = 0.8611
+N = 50; Accuracy = 0.8611
+N = 75; Accuracy = 0.8611
+N = 100; Accuracy = 0.8611
+
+
+i)  Till N count is 20 the algorithm is not affected with respect to the accuracy. The accuracy is stead with 80.56%
+ii)  When N = 25 the accuracy increases to 83.33%. So we can see that the top 20 most frequent words were common for both classes and had little to no affect in classifying them
+iii) when N = 40 the accuracy futer increases and then remains stead till value reaches 100. So removing 40 stop words is increasing accuracy by almost 6%

@@ -1,0 +1,4 @@
+Politicians data set
+ Here considering democrat as a + value and republican as a - value.
+
+As per the training dataset for politicians, the values for Anti_satellite_test_ban, Aid_to_nicaraguan_contras and duty_free_exports play an important role. The party value is affected most by these attributes. 

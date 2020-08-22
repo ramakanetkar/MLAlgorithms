@@ -1,0 +1,3 @@
+Education data set
+
+As per the training dataset for education, the values for M5 and finals seems to be best in line with the grade output. For M5, the value matched with grade for 141 times out of 200 and for P1 it does the same for 161 times. As suspected final result impacts the grade value the most. On the other hand the value for P3 is least consistent with grade value. The most affecting attributes are Finals, M5 and P1 according to the training data set. And the least affective are P3 and P4.

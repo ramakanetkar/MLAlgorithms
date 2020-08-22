@@ -1,0 +1,23 @@
+Education 
+[135+/65-]
+F=y: [119+/23-]
+F=n: [16+/42-]
+| M2=y: [13+/15-]
+| M2=n: [3+/27-]
+error(train): 0.195
+error(test): 0.23
+
+The test error is more than the train error. This can be improved by increasing the entries in the train data
+
+Politician
+
+[83+/66-]
+ Superfund_right_to_sue=y: [28+/64-]
+|  Aid_to_nicaraguan_contras=y: [15+/6-]
+|  Aid_to_nicaraguan_contras=n: [13+/58-]
+ Superfund_right_to_sue=n: [55+/2-]
+error(train): 0.14093959731543623
+error(test): 0.1566265060240964
+
+
+The test error is more than the train error but the difference is very little. to improve the performance even more one can increase the amount of train data.

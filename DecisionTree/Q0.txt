@@ -1,0 +1,5 @@
+Politician Data:
+For the given data set the values given are descrete and we are expected to predict a descrete value. While making a decision about the party of a candidate the given columns will hopefully give us a path which with the help of decision tree can be traced. Hence, I think we can use decision tree for this dataset. But if this data has missing values and noise, the output may not be reliable.
+
+Education Data:
+For the given data set the values given are descrete and we are expected to predict a descrete value. While making a decision about the grade of a student the grades he/she got in exams/test over the years play an important role.Hence, I think we can use decision tree for this dataset. But if this data has missing values and noise, the output may not be reliable.

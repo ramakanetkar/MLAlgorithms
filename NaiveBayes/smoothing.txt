@@ -1,0 +1,16 @@
+For understanding how smoothing factor affects the algorithm, accuracies were observed over different values of q. The observations are as follows:
+
+q_value = 0 ; Accuracy =0.8333
+q_value = 0.1 ; Accuracy =0.8333
+q_value = 0.2 ; Accuracy =0.8333
+q_value = 0.3 ; Accuracy =0.8333
+q_value = 0.5 ; Accuracy =0.8056
+q_value = 1 ; Accuracy =0.8056
+q_value = 2 ; Accuracy =0.8056
+q_value = 3 ; Accuracy =0.6944
+q_value = 5 ; Accuracy =0.6944
+q_value = 10 ; Accuracy =0.6389
+
+i)   As observer the acuuracy is the highest when the q values are less than 0.5. 
+ii)  Then it drops to 80.56% and remains stead till q=3. 
+iii) From q=3 the accuracy starts decresing.

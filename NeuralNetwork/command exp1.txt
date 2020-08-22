@@ -1,0 +1,2 @@
+ python NN_music.py "music_train.csv" "music_train_keys.txt" "music_weights_1.csv" "music_weights_2.csv" "music_dev.csv"
+ 
